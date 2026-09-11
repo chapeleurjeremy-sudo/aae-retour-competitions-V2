@@ -1,0 +1,13 @@
+{
+  "name": "aae-retour-competitions-v2",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Plateforme de retour d'expérience pour les compétitions AAE",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
