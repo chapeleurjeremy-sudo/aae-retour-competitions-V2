@@ -1,3 +1,4 @@
+// DEPLOIEMENT 07 OCTOBRE 2026
 // V2.2 — production API mode: no localStorage/demo fallback.
 // All competition data and participant responses must use Cloudflare Worker + D1.
 const PRODUCTION_API_ONLY = true;
